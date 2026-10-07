@@ -1,4 +1,4 @@
-#!/usr/bin/env 
+#!/usr/bin/env python3
 """Simple Calculator Application for Jenkins Demo"""
 
 def add(a, b):
